@@ -18,13 +18,13 @@ npm install
 
 ### Compiles and hot-reloads for development
 
-first load up the fake DB using in terminal:
+first load up the fake DB in terminal:
 
 ```
 json-server --watch .\db\db.json
 ```
 
-than run the program in different terminal using the comment:
+than run the program in different terminal using the commend:
 
 ```
 npm run serve
