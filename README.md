@@ -1,6 +1,16 @@
 # data viewer
 
-## Project setup
+## Tech
+
+- Vue 2
+- Vuetify
+- Vuex
+- Vue-router
+- Axios
+- json-server
+- html2canvas
+
+### Project setup
 
 ```
 npm install
@@ -19,19 +29,3 @@ than run the program in different terminal using the comment:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
